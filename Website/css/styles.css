@@ -17,17 +17,20 @@
 	background-image: url(../img/careercenter.jpg);
 	color: #FFF;
 }
+#gti {
+	background-image: url(../img/gti.jpg);
+}
 .jumbotron h1 {
 	padding-top: 150px !important;
 	color: #FFF !important;
 	text-shadow: 2px 2px #000000 !important;
 }
-#computer-programming{
+#computer-programming, #sign-up{
 	background-color: #035987;
 	color: #EDEDED;
 }
-#computer-literacy {
-	background-color: #B7B7B7;
+#computer-literacy, #transportation {
+	background-color: #E1E1E1;
 	color: #424242;
 }
 #computer-literacy hr {
@@ -46,9 +49,19 @@
 .career-center p {
 	margin-bottom: 30px;
 }
+.career-center a {
+	margin: 30px;
+}
 .career-center {
 	padding-top: 40px;
 }
+.btn-gti {
+	margin: 15px;
+}
+#transportation.row {
+	padding-bottom: 30px
+}
 footer {
-	padding: 20px 0;
+	background-color: #E1E1E1;
+	padding: 20px 0 10px 0;
 }
