@@ -6,20 +6,20 @@ All the images in each word document is in the images folder.
 ##Subpoint Layout
 
 ###TSA
-  *General
-  *Leadership
-  *Competitions
-  *Events and Conferences
-  *Service Projects
-  *Fundraising
-  *VEX
+  *General<br>
+  *Leadership<br>
+  *Competitions<br>
+  *Events and Conferences<br>
+  *Service Projects<br>
+  *Fundraising<br>
+  *VEX<br>
 
 ###CTE
   *Granite Technical Institute<br>
-  *Career Center
-  *Technology Courses
-  *Internships
-  *CTE Testing
+  *Career Center<br>
+  *Technology Courses<br>
+  *Internships<br>
+  *CTE Testing<br>
 
 ###News
 
