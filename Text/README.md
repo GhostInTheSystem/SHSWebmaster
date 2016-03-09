@@ -15,7 +15,7 @@ All the images in each word document is in the images folder.
   *VEX
 
 ###CTE
-  *Granite Technical Institute
+  *Granite Technical Institute<br>
   *Career Center
   *Technology Courses
   *Internships
