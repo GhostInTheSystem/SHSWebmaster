@@ -1,0 +1,67 @@
+.dropdown-menu a {
+	font-size: 18px;
+	margin: 10px 0;
+}
+.dropdown-toggle {
+	font-size: 20px;
+	font-weight: 500;
+}
+.jumbotron {
+	height: 500px !important;
+	margin:0 !important;
+}
+#techcourse {
+	background-image: url(../img/techcourses.jpg);
+}
+#careercenter {
+	background-image: url(../img/careercenter.jpg);
+	color: #FFF;
+}
+#gti {
+	background-image: url(../img/gti.jpg);
+}
+.jumbotron h1 {
+	padding-top: 150px !important;
+	color: #FFF !important;
+	text-shadow: 2px 2px #000000 !important;
+}
+#computer-programming, #sign-up{
+	background-color: #035987;
+	color: #EDEDED;
+}
+#computer-literacy, #transportation {
+	background-color: #E1E1E1;
+	color: #424242;
+}
+#computer-literacy hr {
+	border-color: #424242;
+}
+#digital-media {
+	background-color: #08A5F9;
+	color: #EDEDED;
+}
+#digital-media hr {
+	border-color: #EDEDED;
+}
+.class {
+	margin: 20px 0;
+}
+.career-center p {
+	margin-bottom: 30px;
+}
+.career-center a {
+	margin: 30px;
+}
+.career-center {
+	padding-top: 40px;
+}
+.btn-gti {
+	margin: 15px;
+}
+#transportation.row {
+	padding-bottom: 30px
+}
+footer {
+	background-color: #E1E1E1;
+	padding: 20px 0 10px 0;
+}
