@@ -6,15 +6,21 @@
 	font-size: 20px;
 	font-weight: 500;
 }
-.jumbotron#techcourse {
-	background-image: url(../img/techcourses.jpg);
-	height: 500px;
-	margin:0;
+.jumbotron {
+	height: 500px !important;
+	margin:0 !important;
 }
-.jumbotron#techcourse h1 {
-	padding-top: 150px;
+#techcourse {
+	background-image: url(../img/techcourses.jpg);
+}
+#careercenter {
+	background-image: url(../img/careercenter.jpg);
 	color: #FFF;
-	text-shadow: 2px 2px #000000;
+}
+.jumbotron h1 {
+	padding-top: 150px !important;
+	color: #FFF !important;
+	text-shadow: 2px 2px #000000 !important;
 }
 #computer-programming{
 	background-color: #035987;
@@ -36,4 +42,13 @@
 }
 .class {
 	margin: 20px 0;
+}
+.career-center p {
+	margin-bottom: 30px;
+}
+.career-center {
+	padding-top: 40px;
+}
+footer {
+	padding: 20px 0;
 }
