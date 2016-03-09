@@ -1,0 +1,39 @@
+.dropdown-menu a {
+	font-size: 18px;
+	margin: 10px 0;
+}
+.dropdown-toggle {
+	font-size: 20px;
+	font-weight: 500;
+}
+.jumbotron#techcourse {
+	background-image: url(../img/techcourses.jpg);
+	height: 500px;
+	margin:0;
+}
+.jumbotron#techcourse h1 {
+	padding-top: 150px;
+	color: #FFF;
+	text-shadow: 2px 2px #000000;
+}
+#computer-programming{
+	background-color: #035987;
+	color: #EDEDED;
+}
+#computer-literacy {
+	background-color: #B7B7B7;
+	color: #424242;
+}
+#computer-literacy hr {
+	border-color: #424242;
+}
+#digital-media {
+	background-color: #90C1F9;
+	color: #424242;
+}
+#digital-media hr {
+	border-color: #424242;
+}
+.class {
+	margin: 20px 0;
+}
