@@ -20,12 +20,22 @@
 #gti {
 	background-image: url(../img/gti.jpg);
 }
+<<<<<<< HEAD
+=======
+#internship {
+	background-image: url(../img/internship.jpg);
+}
+>>>>>>> master
 .jumbotron h1 {
 	padding-top: 150px !important;
 	color: #FFF !important;
 	text-shadow: 2px 2px #000000 !important;
 }
+<<<<<<< HEAD
 #computer-programming, #sign-up{
+=======
+#computer-programming, #sign-up, #description {
+>>>>>>> master
 	background-color: #035987;
 	color: #EDEDED;
 }
@@ -61,6 +71,15 @@
 #transportation.row {
 	padding-bottom: 30px
 }
+<<<<<<< HEAD
+=======
+#contact-info {
+	padding-bottom: 30px;
+}
+.gti-btn {
+	width: 200px
+}
+>>>>>>> master
 footer {
 	background-color: #E1E1E1;
 	padding: 20px 0 10px 0;
