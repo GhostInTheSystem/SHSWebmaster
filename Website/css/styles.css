@@ -14,7 +14,7 @@ body {
 	font-weight: 500;
 	margin: 2px 10px
 }
-.jumbotron .sub {
+.jumbotron.sub {
 	height: 500px !important;
 	margin:0 !important;
 }
@@ -25,13 +25,17 @@ body {
 	height: 800px;
 	margin-bottom: 0;
 	padding-top: 200px;
+	min-height: 100%; 
+  	min-height: 100vh;
+  	display: flex;
+  	align-items: center;
 }
 #home-pic h2, #home-pic-sm h2 {
 	color: #FFF;
 	text-shadow: 2px 2px #000;
 }
 #home-pic-sm {
-	background-image: url(../img/home-pic-sm.jpg);
+	background: url(../img/home-pic-sm.jpg) no-repeat;
 	background-size: cover;
 	background-position: center;
 	height: 800px;
@@ -48,17 +52,25 @@ body {
   align-items: center;
 }
 #techcourse {
-	background-image: url(../img/techcourses.jpg);
+	background: url(../img/techcourses.jpg) no-repeat;
+	background-size: cover;
 }
 #careercenter {
-	background-image: url(../img/careercenter.jpg);
+	background: url(../img/careercenter.jpg) no-repeat;
+	background-size: cover;
 	color: #FFF;
 }
 #gti {
-	background-image: url(../img/gti.jpg);
+	background: url(../img/gti.jpg) no-repeat;
+	background-size: cover;
 }
 #internship {
-	background-image: url(../img/internship.jpg);
+	background: url(../img/internship.jpg) no-repeat;
+	background-size: cover;
+}
+#skyline-tsa {
+	background: url(../img/skyline-tsa.jpg) no-repeat;
+	background-size: cover;
 }
 .jumbotron h1 {
 	padding-top: 150px !important;
@@ -77,7 +89,7 @@ body {
 	border-color: #424242;
 }
 #digital-media {
-	background-color: #08A5F9;
+	background-color: #6C7DA2;
 	color: #EDEDED;
 }
 #digital-media hr {
