@@ -1,3 +1,6 @@
+html {
+	background-color: #d1d1d1;
+}
 .dropdown-menu a {
 	font-size: 18px;
 	margin: 10px 0;
@@ -9,6 +12,16 @@
 .jumbotron {
 	height: 500px !important;
 	margin:0 !important;
+}
+#home-pic {
+	width: 100%;
+}
+.vertical-center {
+  min-height: 100%; 
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
 }
 #techcourse {
 	background-image: url(../img/techcourses.jpg);
